@@ -1,0 +1,624 @@
+Entity ID = E016800501   TYPE =            OTHER   FILE = chapter_01_[0001_0174].xml
+ENTITY Text = gustul ales 
+CONTEXT = Femeile din Roma îi admirau nu numai mintea ageră şi gustul ales , care- i atrăsese numele de arbitrul eleganţei , ci şi înfăţişarea . Admiraţia aceasta se vedea chiar şi pe feţele celor două fete din Cos , care acum îi aranjau faldurile togii . 
+
+Entity ID = E016800502   TYPE =            OTHER   FILE = chapter_01_[0001_0174].xml
+ENTITY Text = care- 
+CONTEXT = Femeile din Roma îi admirau nu numai mintea ageră şi gustul ales , care- i atrăsese numele de arbitrul eleganţei , ci şi înfăţişarea . Admiraţia aceasta se vedea chiar şi pe feţele celor două fete din Cos , care acum îi aranjau faldurile togii . 
+
+Entity ID = E018000012   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = verbină 
+CONTEXT = După scurgerea unei jumătăţi de oră , ieşi , poruncind să i se aducă verbină . 
+
+Entity ID = E018100013   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = o 
+CONTEXT = Începu să o miroasă şi să -şi frece cu ea mâinile şi tâmplele . 
+
+Entity ID = E018100015   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = ea 
+CONTEXT = Începu să o miroasă şi să -şi frece cu ea mâinile şi tâmplele . 
+
+Entity ID = E018700041   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = verbină 
+CONTEXT = Petronius îşi ridică în tăcere palmele parfumate cu verbină în dreptul nărilor şi rămase o vrme aşa , părând că se gândeşte la ceva . 
+
+Entity ID = E019900089   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = un mănunchi de stuf 
+CONTEXT = Abia în ajunul zilei în care îmi anunţasem plecarea , am întâlnit -o pe Ligia la cină , dar n- am putut să -i spun nici un cuvânt . A doua oară , am întâlnit -o lângă bazinul de apă din grădină . Ţinea în mână un mănunchi de stuf proaspăt rupt pe care- l tot cufunda în apă şi stropea cu el lotuşii ce creşteau în jur . 
+
+Entity ID = E019900090   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = care- 
+CONTEXT = Abia în ajunul zilei în care îmi anunţasem plecarea , am întâlnit -o pe Ligia la cină , dar n- am putut să -i spun nici un cuvânt . A doua oară , am întâlnit -o lângă bazinul de apă din grădină . Ţinea în mână un mănunchi de stuf proaspăt rupt pe care- l tot cufunda în apă şi stropea cu el lotuşii ce creşteau în jur . 
+
+Entity ID = E019900091   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = el 
+CONTEXT = Abia în ajunul zilei în care îmi anunţasem plecarea , am întâlnit -o pe Ligia la cină , dar n- am putut să -i spun nici un cuvânt . A doua oară , am întâlnit -o lângă bazinul de apă din grădină . Ţinea în mână un mănunchi de stuf proaspăt rupt pe care- l tot cufunda în apă şi stropea cu el lotuşii ce creşteau în jur . 
+
+Entity ID = E020900124   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = stuful 
+CONTEXT = Ea asculta cuvintele mele , tulburată la rândul ei , şi , cu capul plecat , desena ceva cu stuful pe nisipul galben ca şofranul . După aceea ridică ochii , se mai uită odată la semnele desenate , încă o dată la mine , parcă voind să mă întrebe ceva — şi deodată o luă la fugă ca o hamadriadă din faţa unui faun prost . 
+
+Entity ID = E021500147   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = arborele vieţii 
+CONTEXT = Apoi se întoarse spre Vinicius : — O , tu , boboc primăvăratic pe arborele vieţii , tu primă mlădiţă verde a viţei ! 
+
+Entity ID = E021500150   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = a viţei 
+CONTEXT = Apoi se întoarse spre Vinicius : — O , tu , boboc primăvăratic pe arborele vieţii , tu primă mlădiţă verde a viţei ! 
+
+Entity ID = E021900162   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = o inimă străpunsă 
+CONTEXT = Oare nu numele lui Amor , sau o inimă străpunsă de săgeata lui , sau aşa ceva , din care să poţi deduce că satirii au şi destăinuit la urechea acestei nimfe diferitele taine ale vieţii ? 
+
+Entity ID = E029000399   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = râsul acesta sincer 
+CONTEXT = — Ah , comandante , zise Petronius , permite -ne să ascultăm de aproape râsul acesta sincer ce vine din grădină şi care astăzi se aude atât de rar . 
+
+Entity ID = E029000400   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = ce 
+CONTEXT = — Ah , comandante , zise Petronius , permite -ne să ascultăm de aproape râsul acesta sincer ce vine din grădină şi care astăzi se aude atât de rar . 
+
+Entity ID = E029000401   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = care 
+CONTEXT = — Ah , comandante , zise Petronius , permite -ne să ascultăm de aproape râsul acesta sincer ce vine din grădină şi care astăzi se aude atât de rar . 
+
+Entity ID = E029300406   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = râs 
+CONTEXT = Cât despre râs , cred , Petronius , că -ţi petreci toată vremea râzând . 
+
+Entity ID = E029500410   TYPE =            OTHER   FILE = chapter_02_[0175_0299].xml
+ENTITY Text = râsul 
+CONTEXT = Aici însă râsul răsună cu totul altfel . 
+
+Entity ID = E032700189   TYPE =            OTHER   FILE = chapter_03_[0300_0599].xml
+ENTITY Text = statuia acestei fete 
+CONTEXT = Se trezise în el artistul , adoratorul frumuseţii , care simţea că pe statuia acestei fete s- ar putea scrie : " Primăvara " . 
+
+Entity ID = E032700190   TYPE =            OTHER   FILE = chapter_03_[0300_0599].xml
+ENTITY Text = " Primăvara " 
+CONTEXT = Se trezise în el artistul , adoratorul frumuseţii , care simţea că pe statuia acestei fete s- ar putea scrie : " Primăvara " . 
+
+Entity ID = E051400904   TYPE =            OTHER   FILE = chapter_03_[0300_0599].xml
+ENTITY Text = noii religii 
+CONTEXT = Aşa             că , în afară de Ursus , îi mai dădu pe bătrâna doică , două fete din Cipru pricepute la pieptănat , şi două fete germane , băieşiţe . Alegerea ei căzuse exclusiv asupra adepţilor noii religii , căci şi Ursus o recunoscuse de câţiva ani , aşa             că Pomponia putea conta pe fidelitatea acestor slujitori şi totodată se bucura la gândul că grăunţele adevărului vor fi semănate de casa Cezarului . 
+
+Entity ID = E051400906   TYPE =            OTHER   FILE = chapter_03_[0300_0599].xml
+ENTITY Text = o 
+CONTEXT = Aşa             că , în afară de Ursus , îi mai dădu pe bătrâna doică , două fete din Cipru pricepute la pieptănat , şi două fete germane , băieşiţe . Alegerea ei căzuse exclusiv asupra adepţilor noii religii , căci şi Ursus o recunoscuse de câţiva ani , aşa             că Pomponia putea conta pe fidelitatea acestor slujitori şi totodată se bucura la gândul că grăunţele adevărului vor fi semănate de casa Cezarului . 
+
+Entity ID = E051500920   TYPE =            OTHER   FILE = chapter_03_[0300_0599].xml
+ENTITY Text = noi religii 
+CONTEXT = Scrise câteva cuvinte libertei lui Nero , Acteea , cerându -i s- o ocrotescă pe Ligia . E adevărat că Pomponia nu o văzuse la întrunirile adepţilor noi religii , auzise însă de la dânşii că Acteea nu refuză niciodată să -i ajute şi că citeşte cu aviditate scrisorile lui Pavel din Tars . Mai aflase , de altfel , că tânăra libertă trăieşte într- o veşnică melancolie , că se deosebeşte de toate femeile din casa lui Nero şi că , îndeobşte , e cunoscută ca geniul bun al palatului . 
+
+Entity ID = E067900141   TYPE =            OTHER   FILE = chapter_05_[0654_0803].xml
+ENTITY Text = Adevărul tău 
+CONTEXT = Când are să vină clipa hotărâtoare să ai de ales între dezonoare şi moarte , atunci ai să procedezi aşa cum îţi cere Adevărul tău , dar nu căuta cu dinadinsul pieirea şi nu -l mânia pentru un 
+
+Entity ID = E083200093   TYPE =            OTHER   FILE = chapter_06_[0804_0879].xml
+ENTITY Text = îngerii 
+CONTEXT = Ea îl împinsese pe Cezar să -şi ucidă mama şi soţia . Auzise din povestirile oaspeţilor lui Aulus şi ale servitorilor că statuile ei erau răsturnate noaptea prin oraş , auzise şi de inscripţiile ale căror autori erau condamnaţi la cele mai aspre pedepse şi care reapăreau totuşi în fiecare dimineaţă pe zidurile oraşului . Acum însă , când o văzu pe această vestită Poppea , considerată de adepţii lui Chirstos drept întruparea răului şi a nelegiuirii , i se păru că numai îngerii sau nişte spirite cereşti ar putea arăta aşa . Nu reuşea să -şi desprindă ochii de la ea , iar de pe buze îi porni fără să vrea întrebarea : — Ah , Marcus , oare e posibil ? 
+
+Entity ID = E083200094   TYPE =            OTHER   FILE = chapter_06_[0804_0879].xml
+ENTITY Text = nişte spirite cereşti 
+CONTEXT = Ea îl împinsese pe Cezar să -şi ucidă mama şi soţia . Auzise din povestirile oaspeţilor lui Aulus şi ale servitorilor că statuile ei erau răsturnate noaptea prin oraş , auzise şi de inscripţiile ale căror autori erau condamnaţi la cele mai aspre pedepse şi care reapăreau totuşi în fiecare dimineaţă pe zidurile oraşului . Acum însă , când o văzu pe această vestită Poppea , considerată de adepţii lui Chirstos drept întruparea răului şi a nelegiuirii , i se păru că numai îngerii sau nişte spirite cereşti ar putea arăta aşa . Nu reuşea să -şi desprindă ochii de la ea , iar de pe buze îi porni fără să vrea întrebarea : — Ah , Marcus , oare e posibil ? 
+
+Entity ID = E096100230   TYPE =            OTHER   FILE = chapter_08_[0900_1199].xml
+ENTITY Text = numele de roman 
+CONTEXT = Ea are să -l urmeze pretutindeni , chiar şi peste mare , chiar  şi peste munţi , la barbari , unde nu s- a auzit de numele de roman şi unde nu ajunge puterea Cezarului . S- o ia şi s- o salveze , căci numai el singur i- a mai rămas . 
+
+Entity ID = E120200006   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = aceste distracţii 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200007   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = lor 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200008   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = prinderea femeilor 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200010   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = săltarea lor în aer cu o pelerină soldăţească 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200013   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = aceste incursiuni 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200015   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = " pescuit de perle " 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200018   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = " sagatio " 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200019   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = aruncarea în sus pe pelerina soldăţească 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E120200020   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = răpire 
+CONTEXT = Chiar şi Petronius lua parte la aceste distracţii . Scopul lor principal era , de fapt , prinderea femeilor şi săltarea lor în aer cu o pelerină soldăţească . Nero numea aceste incursiuni " pescuit de perle " , căci se întâmpla ca în adâncul unei cariere locuite de populaţie numeroasă şi săracă , să descopere câte o adevărată perlă de graţie şi tinereţe . Atunci " sagatio " , cum numeau aruncarea în sus pe pelerina soldăţească , se schimba în răpire şi " perla " era trimisă fie la Palatin , fie la vreuna din nenumăratele vile ale Cezarului , fie , în fine , Nero o ceda vreunuia din amicii săi . 
+
+Entity ID = E144900842   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = focul 
+CONTEXT = — Şi mai spune că focul este o divinitate , iar această divinitate arde în nasul tău . 
+
+Entity ID = E145000849   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = aerul 
+CONTEXT = — Iar divinul Diogene din Apolonia susţinea că esenţa lucrurilor este aerul şi cu cât aerul este mai cald , cu atât realizează creaturi mai perfecte , iar din cel mai cald se formează sufletele înţelepţilor . Deoarece toamna se lasă răcoarea , ergo un adevărat înţelept trebuie să -şi încălzească sufletul cu vin ... 
+
+Entity ID = E145000850   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = aerul 
+CONTEXT = — Iar divinul Diogene din Apolonia susţinea că esenţa lucrurilor este aerul şi cu cât aerul este mai cald , cu atât realizează creaturi mai perfecte , iar din cel mai cald se formează sufletele înţelepţilor . Deoarece toamna se lasă răcoarea , ergo un adevărat înţelept trebuie să -şi încălzească sufletul cu vin ... 
+
+Entity ID = E145000852   TYPE =            OTHER   FILE = chapter_09_[1200_1499].xml
+ENTITY Text = cel mai cald 
+CONTEXT = — Iar divinul Diogene din Apolonia susţinea că esenţa lucrurilor este aerul şi cu cât aerul este mai cald , cu atât realizează creaturi mai perfecte , iar din cel mai cald se formează sufletele înţelepţilor . Deoarece toamna se lasă răcoarea , ergo un adevărat înţelept trebuie să -şi încălzească sufletul cu vin ... 
+
+Entity ID = E177500168   TYPE =            OTHER   FILE = chapter_14_[1755_1775].xml
+ENTITY Text = religia asta 
+CONTEXT = Se forma totuşi în el şi impresia tulbure că tocmai această ardoare a lui Christos , necunoscută lui , misterioasă , a ridicat un zid între el şi Ligia , aşa că începu să se teamă de religia asta şi în acelaşi timp s- o urască . 
+
+Entity ID = E177500169   TYPE =            OTHER   FILE = chapter_14_[1755_1775].xml
+ENTITY Text = o 
+CONTEXT = Se forma totuşi în el şi impresia tulbure că tocmai această ardoare a lui Christos , necunoscută lui , misterioasă , a ridicat un zid între el şi Ligia , aşa că începu să se teamă de religia asta şi în acelaşi timp s- o urască . 
+
+Entity ID = E180200006   TYPE =            OTHER   FILE = chapter_16_[1800_2099].xml
+ENTITY Text = numele trădătorului 
+CONTEXT = Dar în clipa asta nu pot să -mi amintesc numele trădătorului ... 
+
+Entity ID = E180300013   TYPE =            OTHER   FILE = chapter_16_[1800_2099].xml
+ENTITY Text = acest nume 
+CONTEXT = — Iuda , stăpâne , care s- a spânzurat , răspunse Quartus , cam mirat că cineva a putu să uite acest nume . 
+
+Entity ID = E216300204   TYPE =            OTHER   FILE = chapter_17_[2100_2399].xml
+ENTITY Text = le 
+CONTEXT = Bătrânul , vorbind mai departe , spuse că virtutea şi adevărul trebuie iubite pentru ele înşile , fiindcă binele suprem , mai vechi decât veşnicia , şi virtutea supremă , mai veche decât veşnicia , este Dumnezeu . Cine le iubeşte , îl iubeşte pe Dumnezeu şi , iubindu -l , devine fiul lui iubit . 
+
+Entity ID = E216700231   TYPE =            OTHER   FILE = chapter_17_[2100_2399].xml
+ENTITY Text = iubirea absolută 
+CONTEXT = Cea mai mare uimire i- o produse bătrânul spunând că Dumnezeu este de asemenea iubirea absolută şi că cine -i iubeşte pe oameni , acela împlineşte suprema lui poruncă . 
+
+Entity ID = E290600684   TYPE =            OTHER   FILE = chapter_19_[2700_2999].xml
+ENTITY Text = ei 
+CONTEXT = — Până n- au trecut peste mine douăzeci de ierni , mi- a fost frică de ei , răspunse Ursus , pe urmă însă s- a întâmplat s- o fac . 
+
+Entity ID = E315300728   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = o cruce 
+CONTEXT = Ţi- am scris că a plecat în taină , dar , plecând , mi- a lăsat o cruce pe care a legat -o singură din crăcuţe de merişor . Trezindu -mă , am găsit -o lângă pat . 
+
+Entity ID = E315300729   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = care 
+CONTEXT = Ţi- am scris că a plecat în taină , dar , plecând , mi- a lăsat o cruce pe care a legat -o singură din crăcuţe de merişor . Trezindu -mă , am găsit -o lângă pat . 
+
+Entity ID = E315300730   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = -o 
+CONTEXT = Ţi- am scris că a plecat în taină , dar , plecând , mi- a lăsat o cruce pe care a legat -o singură din crăcuţe de merişor . Trezindu -mă , am găsit -o lângă pat . 
+
+Entity ID = E315400731   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = O 
+CONTEXT = O am acum în lararium şi nu înţeleg nici eu de ce mă apropii de ea cu senzaţia că ar conţine ceva divin , adică cu stimă şi teamă . 
+
+Entity ID = E315400733   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = ea 
+CONTEXT = O am acum în lararium şi nu înţeleg nici eu de ce mă apropii de ea cu senzaţia că ar conţine ceva divin , adică cu stimă şi teamă . 
+
+Entity ID = E315500734   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = ea 
+CONTEXT = Ţin la ea pentru că e legată de mâinile Ligiei , dar o urăsc pentru că ne- a despărţit . Uneori , mi se pare că la mijloc e o vrajă , că magul acela Petru , deşi susţine că -i un simplu pescar , este mai mare chiar decât Apollonius şi toţi care au fost înaintea lui , că el i- a fermecat pe toţi , pe Ligia , pe Pomponia , şi pe mine însumi . ( ... ) Trăiesc cu speranţa că poate am s- o zăresc şi uneori sunt convins că am s- o întâlnesc ... 
+
+Entity ID = E315500737   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = o 
+CONTEXT = Ţin la ea pentru că e legată de mâinile Ligiei , dar o urăsc pentru că ne- a despărţit . Uneori , mi se pare că la mijloc e o vrajă , că magul acela Petru , deşi susţine că -i un simplu pescar , este mai mare chiar decât Apollonius şi toţi care au fost înaintea lui , că el i- a fermecat pe toţi , pe Ligia , pe Pomponia , şi pe mine însumi . ( ... ) Trăiesc cu speranţa că poate am s- o zăresc şi uneori sunt convins că am s- o întâlnesc ... 
+
+Entity ID = E326301047   TYPE =            OTHER   FILE = chapter_20_[3000_3299].xml
+ENTITY Text = şacalilor 
+CONTEXT = Lui Tigellinus dăruieşte -i pustiul , atunci va fi regele şacalilor ... 
+
+Entity ID = E332600061   TYPE =            OTHER   FILE = chapter_21_[3300_3599].xml
+ENTITY Text = vieţii 
+CONTEXT = Mai încearcă să dovedeşti că ăştia nu -s duşmanii vieţii şi ai oamenilor ... 
+
+Entity ID = E402000519   TYPE =            OTHER   FILE = chapter_23_[3900_4199].xml
+ENTITY Text = Hadesului 
+CONTEXT = O voce tainică îmi spune că fiecare cuvânt de- al lui trebuie să se împlinească şi dacă el a binecuvântat dragostea noastră , nici împăratul , nici toate puterile Hadesului , nici măcar Destinul nu vor reuşi să mi te răpească . 
+
+Entity ID = E402000520   TYPE =            OTHER   FILE = chapter_23_[3900_4199].xml
+ENTITY Text = Destinul 
+CONTEXT = O voce tainică îmi spune că fiecare cuvânt de- al lui trebuie să se împlinească şi dacă el a binecuvântat dragostea noastră , nici împăratul , nici toate puterile Hadesului , nici măcar Destinul nu vor reuşi să mi te răpească . 
+
+Entity ID = E402200524   TYPE =            OTHER   FILE = chapter_23_[3900_4199].xml
+ENTITY Text = însuşi Cerul 
+CONTEXT = Când mă gândesc la asta sunt fericit , ca şi cum aş fi însuşi Cerul , singurul care- i fericit şi liniştit . Pe tine , fiind creştină , poate au să te supere cuvintele mele despre Cer şi Destin ? 
+
+Entity ID = E402200525   TYPE =            OTHER   FILE = chapter_23_[3900_4199].xml
+ENTITY Text = singurul 
+CONTEXT = Când mă gândesc la asta sunt fericit , ca şi cum aş fi însuşi Cerul , singurul care- i fericit şi liniştit . Pe tine , fiind creştină , poate au să te supere cuvintele mele despre Cer şi Destin ? 
+
+Entity ID = E402200526   TYPE =            OTHER   FILE = chapter_23_[3900_4199].xml
+ENTITY Text = care- 
+CONTEXT = Când mă gândesc la asta sunt fericit , ca şi cum aş fi însuşi Cerul , singurul care- i fericit şi liniştit . Pe tine , fiind creştină , poate au să te supere cuvintele mele despre Cer şi Destin ? 
+
+Entity ID = E402200530   TYPE =            OTHER   FILE = chapter_23_[3900_4199].xml
+ENTITY Text = Cer 
+CONTEXT = Când mă gândesc la asta sunt fericit , ca şi cum aş fi însuşi Cerul , singurul care- i fericit şi liniştit . Pe tine , fiind creştină , poate au să te supere cuvintele mele despre Cer şi Destin ? 
+
+Entity ID = E402200531   TYPE =            OTHER   FILE = chapter_23_[3900_4199].xml
+ENTITY Text = Destin 
+CONTEXT = Când mă gândesc la asta sunt fericit , ca şi cum aş fi însuşi Cerul , singurul care- i fericit şi liniştit . Pe tine , fiind creştină , poate au să te supere cuvintele mele despre Cer şi Destin ? 
+
+Entity ID = E438500482   TYPE =            OTHER   FILE = chapter_24_[4200_4499].xml
+ENTITY Text = călăreţul şi calul 
+CONTEXT = Lipindu -şi obrazul de gâtul calului , gonea orbeşte , numai în tunică , fără să privească înainte şi fără să ţină seama de obstacolele de care se putea zdrobi . În tăcerea nopţii înstelate , călăreţul şi calul , scăldaţi în strălucirea lunii , păreau două fantome . 
+
+Entity ID = E438500483   TYPE =            OTHER   FILE = chapter_24_[4200_4499].xml
+ENTITY Text = două fantome 
+CONTEXT = Lipindu -şi obrazul de gâtul calului , gonea orbeşte , numai în tunică , fără să privească înainte şi fără să ţină seama de obstacolele de care se putea zdrobi . În tăcerea nopţii înstelate , călăreţul şi calul , scăldaţi în strălucirea lunii , păreau două fantome . 
+
+Entity ID = E449600787   TYPE =            OTHER   FILE = chapter_24_[4200_4499].xml
+ENTITY Text = Casa Viniciusilor 
+CONTEXT = Casa Viniciusilor , care până în ultimele vremuri dăduse numeroşi consuli , era cunoscută în toată Roma . Mulţimea avea nevoie numai de nume . 
+
+Entity ID = E449600789   TYPE =            OTHER   FILE = chapter_24_[4200_4499].xml
+ENTITY Text = care 
+CONTEXT = Casa Viniciusilor , care până în ultimele vremuri dăduse numeroşi consuli , era cunoscută în toată Roma . Mulţimea avea nevoie numai de nume . 
+
+Entity ID = E503300176   TYPE =            OTHER   FILE = chapter_29_[4979_5091].xml
+ENTITY Text = numele Mielului 
+CONTEXT = Binecuvântat să fie numele Mielului , pentru bucuria pe care o vei face Callinei . 
+
+Entity ID = E508900425   TYPE =            OTHER   FILE = chapter_29_[4979_5091].xml
+ENTITY Text = în numele Tatălui şi al Fiului şi al Sfântului Duh 
+CONTEXT = Apostolul Petru luă o amforă cu apă şi , apropiindu -se de el , spuse solemn : — Iată , te botez în numele Tatălui şi al Fiului şi al Sfântului Duh , amin ! 
+
+Entity ID = E509000431   TYPE =            OTHER   FILE = chapter_29_[4979_5091].xml
+ENTITY Text = stoluri de îngeri 
+CONTEXT = Elanul religios îi cuprinse şi pe cei de faţă . Aveau impresia că coliba se umple de o lumină supranaturală , că aud o muzică divină că stânca peşterii se deschide deasupra capetelor lor , că din cer vin stoluri de îngeri , iar sus , în înălţimi , se vede o cruce şi două mâini străpunse care binecuvântează . 
+
+Entity ID = E516800187   TYPE =            OTHER   FILE = chapter_30_[5092_5241].xml
+ENTITY Text = duhuri rele 
+CONTEXT = Nimeni nu i- a văzut în temple , căci pe zeu noştri ei îi consideră duhuri rele . 
+
+Entity ID = E522200375   TYPE =            OTHER   FILE = chapter_30_[5092_5241].xml
+ENTITY Text = prietenia 
+CONTEXT = Nero ridică din nou buzele spre nări şi , întorcându -şi spre Petronius ochii lui sticloşi de miop , zise : — Aşa- mi plăteşti pentru prietenia pe care am avut -o pentru tine ? 
+
+Entity ID = E522200376   TYPE =            OTHER   FILE = chapter_30_[5092_5241].xml
+ENTITY Text = care 
+CONTEXT = Nero ridică din nou buzele spre nări şi , întorcându -şi spre Petronius ochii lui sticloşi de miop , zise : — Aşa- mi plăteşti pentru prietenia pe care am avut -o pentru tine ? 
+
+Entity ID = E522200377   TYPE =            OTHER   FILE = chapter_30_[5092_5241].xml
+ENTITY Text = -o 
+CONTEXT = Nero ridică din nou buzele spre nări şi , întorcându -şi spre Petronius ochii lui sticloşi de miop , zise : — Aşa- mi plăteşti pentru prietenia pe care am avut -o pentru tine ? 
+
+Entity ID = E524300005   TYPE =            OTHER   FILE = chapter_31_[5242_5303].xml
+ENTITY Text = Legii 
+CONTEXT = — Noi , Cezar , îi acuzăm doar că sunt duşmanii Legii , duşmanii nea mului omenesc , duşmanii Romei şi ai tăi şi că de mult ameninţau cu foc oraşul şi lumea întreagă . 
+
+Entity ID = E525600069   TYPE =            OTHER   FILE = chapter_31_[5242_5303].xml
+ENTITY Text = Lege 
+CONTEXT = Creştinii au hulit această Lege şi de aceea îi urăsc . 
+
+Entity ID = E548800005   TYPE =            OTHER   FILE = chapter_34_[5485_5517].xml
+ENTITY Text = ai dezastrului 
+CONTEXT = În prima clipă , nu numai că nimeni nu s- a îndoit că ei erau adevăraţii făptaşi ai dezastrului , dar nici nu voia să se îndoiască , deoarece pedepsirea promitea să devină o extraordinară distracţie pentru popor . 
+
+Entity ID = E548900006   TYPE =            OTHER   FILE = chapter_34_[5485_5517].xml
+ENTITY Text = dezastrul 
+CONTEXT = S- a răspândit însă părerea că dezastrul n- ar fi luat proporţii atât de îngrozitoare , dacă n- ar fi fost la mijloc şi mânia zeilor , aşa că se impuseră piacula , adică jertfe de purificare . 
+
+Entity ID = E571200055   TYPE =            OTHER   FILE = chapter_37_[5689_5785].xml
+ENTITY Text = numele Lui 
+CONTEXT = — Slăvit să fie numele Lui ! 
+
+Entity ID = E591800225   TYPE =            OTHER   FILE = chapter_39_[5854_6003].xml
+ENTITY Text = numele favoriţilor 
+CONTEXT = Începuseră şi de astă dată să circule din mână în mână tăbliţele pe care se scriau numele favoriţilor şi suma de sesterţi mizată . 
+
+Entity ID = E592300246   TYPE =            OTHER   FILE = chapter_39_[5854_6003].xml
+ENTITY Text = numele zeilor 
+CONTEXT = Mulţi invocau cu voce tare numele zeilor , cerând ocrotire pentru favoriţii lor . 
+
+Entity ID = E593400281   TYPE =            OTHER   FILE = chapter_39_[5854_6003].xml
+ENTITY Text = numele de Lanio 
+CONTEXT = Imediat , dintre gali , ieşi înainte un luptător bine cunoscut amatorilor de lupte , cu numele de Lanio ( Măcelarul ) , învingător la multe jocuri . 
+
+Entity ID = E624500190   TYPE =            OTHER   FILE = chapter_42_[6170_6319].xml
+ENTITY Text = un cuţit scurt roman 
+CONTEXT = Petronius se înarmă cu un cuţit scurt roman , numit sica , pe care- l lua cu el întotdeauna în escapadele nocturne . 
+
+Entity ID = E624500191   TYPE =            OTHER   FILE = chapter_42_[6170_6319].xml
+ENTITY Text = sica 
+CONTEXT = Petronius se înarmă cu un cuţit scurt roman , numit sica , pe care- l lua cu el întotdeauna în escapadele nocturne . 
+
+Entity ID = E624500192   TYPE =            OTHER   FILE = chapter_42_[6170_6319].xml
+ENTITY Text = care- 
+CONTEXT = Petronius se înarmă cu un cuţit scurt roman , numit sica , pe care- l lua cu el întotdeauna în escapadele nocturne . 
+
+Entity ID = E624500193   TYPE =            OTHER   FILE = chapter_42_[6170_6319].xml
+ENTITY Text = l 
+CONTEXT = Petronius se înarmă cu un cuţit scurt roman , numit sica , pe care- l lua cu el întotdeauna în escapadele nocturne . 
+
+Entity ID = E632100007   TYPE =            OTHER   FILE = chapter_43_[6320_6368].xml
+ENTITY Text = mântuirea lor 
+CONTEXT = Sau poate Christos , care a murit pentru mântuirea lor , aşa cum mor ei pentru numele Lui ? 
+
+Entity ID = E632500022   TYPE =            OTHER   FILE = chapter_43_[6320_6368].xml
+ENTITY Text = răul 
+CONTEXT = — Doamne , am urât răul ! 
+
+Entity ID = E632700029   TYPE =            OTHER   FILE = chapter_43_[6320_6368].xml
+ENTITY Text = răul 
+CONTEXT = — Christos a poruncit să -i iubim pe oameni mai mult decât să urâm răul , căci învăţătura lui este iubire şi nu ură . 
+
+Entity ID = E632700030   TYPE =            OTHER   FILE = chapter_43_[6320_6368].xml
+ENTITY Text = învăţătura lui 
+CONTEXT = — Christos a poruncit să -i iubim pe oameni mai mult decât să urâm răul , căci învăţătura lui este iubire şi nu ură . 
+
+Entity ID = E632700032   TYPE =            OTHER   FILE = chapter_43_[6320_6368].xml
+ENTITY Text = iubire 
+CONTEXT = — Christos a poruncit să -i iubim pe oameni mai mult decât să urâm răul , căci învăţătura lui este iubire şi nu ură . 
+
+Entity ID = E632700033   TYPE =            OTHER   FILE = chapter_43_[6320_6368].xml
+ENTITY Text = ură 
+CONTEXT = — Christos a poruncit să -i iubim pe oameni mai mult decât să urâm răul , căci învăţătura lui este iubire şi nu ură . 
+
+Entity ID = E657000052   TYPE =            OTHER   FILE = chapter_47_[6551_6687].xml
+ENTITY Text = partidei Verzilor 
+CONTEXT = Era îmbrăcat în veşminte de vizitiu în culorile partidei Verzilor , din care făceau parte şi el şi curtea lui . 
+
+Entity ID = E657000054   TYPE =            OTHER   FILE = chapter_47_[6551_6687].xml
+ENTITY Text = care 
+CONTEXT = Era îmbrăcat în veşminte de vizitiu în culorile partidei Verzilor , din care făceau parte şi el şi curtea lui . 
+
+Entity ID = E665000344   TYPE =            OTHER   FILE = chapter_47_[6551_6687].xml
+ENTITY Text = dragostea mea 
+CONTEXT = De atunci , El este dragostea mea . 
+
+Entity ID = E666000393   TYPE =            OTHER   FILE = chapter_47_[6551_6687].xml
+ENTITY Text = incendiului 
+CONTEXT = Însă dacă mâine declari în amfiteatru că ai fost beat şi nebun şi că făptaşii incendiului sunt creştinii , pedeapsa ta se va limita doar la biciuire şi expulzare . 
+
+Entity ID = E668900004   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = un urs 
+CONTEXT = Drama Laureolus se reprezenta de obicei în teatre sau în amfiteatre construite în aşa fel , încât să se poată deschide şi folosi ca două scene separate . După spectacolul din parcul împărătesc , se renunţă la metoda obişnuită . Se urmărea ca un număr cât mai mare de oameni să poată privi moartea sclavului răstignit pe cruce , pe care în dramă îl mânca un urs . În teatre , rolul ursului îl juca un actor îmbrăcat în blană . 
+
+Entity ID = E668900005   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = ursului 
+CONTEXT = Drama Laureolus se reprezenta de obicei în teatre sau în amfiteatre construite în aşa fel , încât să se poată deschide şi folosi ca două scene separate . După spectacolul din parcul împărătesc , se renunţă la metoda obişnuită . Se urmărea ca un număr cât mai mare de oameni să poată privi moartea sclavului răstignit pe cruce , pe care în dramă îl mânca un urs . În teatre , rolul ursului îl juca un actor îmbrăcat în blană . 
+
+Entity ID = E669800043   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = ursul 
+CONTEXT = Imediat începu reprezentaţia Laureolus , la care nu prea erau atenţi , căci se gândeau la Chilon . Poporul , obişnuit cu torturi şi sânge , se plictisea de asemenea , şuiera , arunca vorbe nu prea măgulitoare la adresa curţii şi ţipa să fie arătată scena cu ursul , singura care- l interesa . 
+
+Entity ID = E670000049   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = ursul 
+CONTEXT = În sfârşit , sosi clipa aşteptată . Servitorii circului aduseră mai întâi o cruce de lemn , destul de scundă , pentru ca ursul , ridicându -se pe ea , să poată ajunge la pieptul victimei , apoi doi oameni îl aduseră , sau mai degrabă , îl târâră pe Chilon , căci singur , având oasele picioarelor sfărâmate , nu putea merge . 
+
+Entity ID = E670000050   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = -se 
+CONTEXT = În sfârşit , sosi clipa aşteptată . Servitorii circului aduseră mai întâi o cruce de lemn , destul de scundă , pentru ca ursul , ridicându -se pe ea , să poată ajunge la pieptul victimei , apoi doi oameni îl aduseră , sau mai degrabă , îl târâră pe Chilon , căci singur , având oasele picioarelor sfărâmate , nu putea merge . 
+
+Entity ID = E671300114   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = ursul 
+CONTEXT = " Alţii aşteptau ursul , dorind din suflet ca spectacolul să se termine cât mai repede . 
+
+Entity ID = E671400115   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = ursul 
+CONTEXT = În sfârşit , ursul se rostogoli în arenă şi , legănându -şi capul lăsat în jos de tot , se uita pe sub sprâncene în toate părţile ca şi cum ar fi adulmecat o urmă . 
+
+Entity ID = E671400116   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = -şi 
+CONTEXT = În sfârşit , ursul se rostogoli în arenă şi , legănându -şi capul lăsat în jos de tot , se uita pe sub sprâncene în toate părţile ca şi cum ar fi adulmecat o urmă . 
+
+Entity ID = E671500120   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = lui 
+CONTEXT = Zărind , în sfârşit , crucea şi trupul gol de pe ea , se apropie , se şi ridică , însă după o clipă se lăsă din nou jos şi , asezându -se lângă cruce , începu să mormăie , de parcă şi în inima lui de fiară s- ar fi trezit mila faţă de aceste rămăşiţe omeneşti . 
+
+Entity ID = E671600124   TYPE =            OTHER   FILE = chapter_48_[6688_6721].xml
+ENTITY Text = -l 
+CONTEXT = Servitorii circului începură să strige ca să -l aţâţe , însă poporul tăcea . 
+
+Entity ID = E675200028   TYPE =            OTHER   FILE = chapter_50_[6743_6774].xml
+ENTITY Text = ventorumque 
+CONTEXT = Scevinus începu să recite o poezie din Horatius : Sic te diva potens Cypri , sic fratres Helenae , lucida sidera , ventorumque regat pater ! 
+
+Entity ID = E696400021   TYPE =            OTHER   FILE = chapter_54_[6962_6991].xml
+ENTITY Text = o voce 
+CONTEXT = Veni mai întâi tânărul Nazarius cu Miriam , la care continua să se ascundă apostolul Petru , iar după ei veniră şi alţii . Toţi laolaltă , împreună cu Vinicius , Ligia , cu sclavii creştini ai lui Petronius îl ascultau cu evlavie pe Ursus povestind cum a răsunat în sufletul lui o voce care i- a poruncit să lupte cu fiara şi toţi plecau îmbărbătaţi cu speranţa că Christos n- are să îngăduie totuşi să fie nimiciţi până la unul adepţii săi , până când va veni el însuşi la judecata cea aspră . 
+
+Entity ID = E696400022   TYPE =            OTHER   FILE = chapter_54_[6962_6991].xml
+ENTITY Text = care 
+CONTEXT = Veni mai întâi tânărul Nazarius cu Miriam , la care continua să se ascundă apostolul Petru , iar după ei veniră şi alţii . Toţi laolaltă , împreună cu Vinicius , Ligia , cu sclavii creştini ai lui Petronius îl ascultau cu evlavie pe Ursus povestind cum a răsunat în sufletul lui o voce care i- a poruncit să lupte cu fiara şi toţi plecau îmbărbătaţi cu speranţa că Christos n- are să îngăduie totuşi să fie nimiciţi până la unul adepţii săi , până când va veni el însuşi la judecata cea aspră . 
+
+Entity ID = E703200133   TYPE =            OTHER   FILE = chapter_55_[6992_7033].xml
+ENTITY Text = adevărul viu 
+CONTEXT = Petru înţelese că nici împăratul , nici toate legiunile lui n- au să poată învinge adevărul viu , că n- au să -l înece nici lacrimile , nici sângele şi că abia acum începe izbânda lui . 
+
+Entity ID = E703200134   TYPE =            OTHER   FILE = chapter_55_[6992_7033].xml
+ENTITY Text = lui 
+CONTEXT = Petru înţelese că nici împăratul , nici toate legiunile lui n- au să poată învinge adevărul viu , că n- au să -l înece nici lacrimile , nici sângele şi că abia acum începe izbânda lui . 
+
+Entity ID = E706100101   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = adevărul 
+CONTEXT = Ştia că adevărul pe care- l propovăduise toată viaţa se va revărsa peste lume ca un val şi că nimic nu va mai putea să -l oprească . 
+
+Entity ID = E706100102   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care- 
+CONTEXT = Ştia că adevărul pe care- l propovăduise toată viaţa se va revărsa peste lume ca un val şi că nimic nu va mai putea să -l oprească . 
+
+Entity ID = E706100103   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = l 
+CONTEXT = Ştia că adevărul pe care- l propovăduise toată viaţa se va revărsa peste lume ca un val şi că nimic nu va mai putea să -l oprească . 
+
+Entity ID = E706100105   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = un val 
+CONTEXT = Ştia că adevărul pe care- l propovăduise toată viaţa se va revărsa peste lume ca un val şi că nimic nu va mai putea să -l oprească . 
+
+Entity ID = E706100106   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = -l 
+CONTEXT = Ştia că adevărul pe care- l propovăduise toată viaţa se va revărsa peste lume ca un val şi că nimic nu va mai putea să -l oprească . 
+
+Entity ID = E706800145   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = legea şi pacea ei 
+CONTEXT = urma mai în vale teatrul lui Pompeius , iar în spatele lui , pe alocurea vizibile , pe alocurea acoperite de alte clădiri , Saepta Julia , o mulţime de porticuri , temple , coloane , clădiri care păreau îngrămădite unele deasupra altora şi , în sfârşit hăt , departe , dealurile acoperite cu case , un furnicar imens de oameni , cuibul crimei , dar şi al puterii , al nebuniei , dar şi al ordinei , care a devenit capul lumii , asupritorul ei şi totodată legea şi pacea ei , atotputernic , invincibil , veşnic . 
+
+Entity ID = E707900189   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = vălul 
+CONTEXT = Împrumută -mi doar vălul cu care să mă lege la ochi în clipa când voi pleca la Domnul . 
+
+Entity ID = E707900190   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Împrumută -mi doar vălul cu care să mă lege la ochi în clipa când voi pleca la Domnul . 
+
+Entity ID = E708000194   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = vălul 
+CONTEXT = Şi , luând vălul , merse mai departe , cu înfăţişarea calmă şi împăcată a unui muncitor care a lucrat bine toată ziua şi se întoarce acasă . 
+
+Entity ID = E708300204   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = luptele 
+CONTEXT = Îşi aduse aminte de călătorule lui , de munca şi luptele în care ieşise victorios , de bisericile pe care le întemeiase în toate ţările şi dincolo de toate mările , şi se gândea că îşi merită din plin odihna . 
+
+Entity ID = E708300205   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Îşi aduse aminte de călătorule lui , de munca şi luptele în care ieşise victorios , de bisericile pe care le întemeiase în toate ţările şi dincolo de toate mările , şi se gândea că îşi merită din plin odihna . 
+
+Entity ID = E708300206   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = bisericile 
+CONTEXT = Îşi aduse aminte de călătorule lui , de munca şi luptele în care ieşise victorios , de bisericile pe care le întemeiase în toate ţările şi dincolo de toate mările , şi se gândea că îşi merită din plin odihna . 
+
+Entity ID = E708300207   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Îşi aduse aminte de călătorule lui , de munca şi luptele în care ieşise victorios , de bisericile pe care le întemeiase în toate ţările şi dincolo de toate mările , şi se gândea că îşi merită din plin odihna . 
+
+Entity ID = E708300208   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = le 
+CONTEXT = Îşi aduse aminte de călătorule lui , de munca şi luptele în care ieşise victorios , de bisericile pe care le întemeiase în toate ţările şi dincolo de toate mările , şi se gândea că îşi merită din plin odihna . 
+
+Entity ID = E708500215   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = lupta 
+CONTEXT = Simţea că seminţele aruncate de el nu vor mai fi răvăşite de vântul răutăţii . Pleca cu certitudinea că în lupta pe care Adevărul lui a declarat -o lumii , el va învinge — şi o seninătate netulburată coborî în sufletul lui . 
+
+Entity ID = E708500216   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Simţea că seminţele aruncate de el nu vor mai fi răvăşite de vântul răutăţii . Pleca cu certitudinea că în lupta pe care Adevărul lui a declarat -o lumii , el va învinge — şi o seninătate netulburată coborî în sufletul lui . 
+
+Entity ID = E708500217   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = Adevărul lui 
+CONTEXT = Simţea că seminţele aruncate de el nu vor mai fi răvăşite de vântul răutăţii . Pleca cu certitudinea că în lupta pe care Adevărul lui a declarat -o lumii , el va învinge — şi o seninătate netulburată coborî în sufletul lui . 
+
+Entity ID = E708500219   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = -o 
+CONTEXT = Simţea că seminţele aruncate de el nu vor mai fi răvăşite de vântul răutăţii . Pleca cu certitudinea că în lupta pe care Adevărul lui a declarat -o lumii , el va învinge — şi o seninătate netulburată coborî în sufletul lui . 
+
+Entity ID = E708500221   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = el 
+CONTEXT = Simţea că seminţele aruncate de el nu vor mai fi răvăşite de vântul răutăţii . Pleca cu certitudinea că în lupta pe care Adevărul lui a declarat -o lumii , el va învinge — şi o seninătate netulburată coborî în sufletul lui . 
+
+Entity ID = E709000230   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = o anumită armonie 
+CONTEXT = Pe drum , în faţa caselor , se jucau copiii , uitându -se cu curiozitatea vârstei lor la detaşamentul de soldaţi care trecea . Căci în seara aceea , în lumina aceea aurie , transparentă , era nu numai pace şi împăcare , ci o anumită armonie , care părea să se înalţe de la pământ spre cer . 
+
+Entity ID = E709000231   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Pe drum , în faţa caselor , se jucau copiii , uitându -se cu curiozitatea vârstei lor la detaşamentul de soldaţi care trecea . Căci în seara aceea , în lumina aceea aurie , transparentă , era nu numai pace şi împăcare , ci o anumită armonie , care părea să se înalţe de la pământ spre cer . 
+
+Entity ID = E709100233   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = o 
+CONTEXT = Pavel o simţea şi inima i se umplea de bucurie la gândul că la muzica asta a lumii adăugase încă un sunet ce nu existase până atunci şi fără de care pământul întreg ar fi fost " ca arama dogită şi ca ţambalul răsunător . 
+
+Entity ID = E709100236   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = muzica asta a lumii 
+CONTEXT = Pavel o simţea şi inima i se umplea de bucurie la gândul că la muzica asta a lumii adăugase încă un sunet ce nu existase până atunci şi fără de care pământul întreg ar fi fost " ca arama dogită şi ca ţambalul răsunător . 
+
+Entity ID = E709100238   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = un sunet 
+CONTEXT = Pavel o simţea şi inima i se umplea de bucurie la gândul că la muzica asta a lumii adăugase încă un sunet ce nu existase până atunci şi fără de care pământul întreg ar fi fost " ca arama dogită şi ca ţambalul răsunător . 
+
+Entity ID = E709100239   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = ce 
+CONTEXT = Pavel o simţea şi inima i se umplea de bucurie la gândul că la muzica asta a lumii adăugase încă un sunet ce nu existase până atunci şi fără de care pământul întreg ar fi fost " ca arama dogită şi ca ţambalul răsunător . 
+
+Entity ID = E709100240   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Pavel o simţea şi inima i se umplea de bucurie la gândul că la muzica asta a lumii adăugase încă un sunet ce nu existase până atunci şi fără de care pământul întreg ar fi fost " ca arama dogită şi ca ţambalul răsunător . 
+
+Entity ID = E709200245   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = iubirea 
+CONTEXT = " Îşi aminti cum i- a învăţat pe oameni iubirea . 
+
+Entity ID = E709300249   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = iubire 
+CONTEXT = Propovăduind , le spunea că , chiar dacă şi- ar împărţi averea celor săraci şi chiar dac- ar şti toate limbile şi toate tainele şi toate ştiinţele , n- au să fie nimic fără iubire , care e mărinimoasă , răbdătoare , care nu face rău , nu doreşte onoruri , îndură totul , crede oricui , speră mereu , rezistă la orice . 
+
+Entity ID = E709300250   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Propovăduind , le spunea că , chiar dacă şi- ar împărţi averea celor săraci şi chiar dac- ar şti toate limbile şi toate tainele şi toate ştiinţele , n- au să fie nimic fără iubire , care e mărinimoasă , răbdătoare , care nu face rău , nu doreşte onoruri , îndură totul , crede oricui , speră mereu , rezistă la orice . 
+
+Entity ID = E709300251   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = care 
+CONTEXT = Propovăduind , le spunea că , chiar dacă şi- ar împărţi averea celor săraci şi chiar dac- ar şti toate limbile şi toate tainele şi toate ştiinţele , n- au să fie nimic fără iubire , care e mărinimoasă , răbdătoare , care nu face rău , nu doreşte onoruri , îndură totul , crede oricui , speră mereu , rezistă la orice . 
+
+Entity ID = E709400255   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = acest adevăr 
+CONTEXT = Îşi petrecuse viaţa , învăţându -i pe oameni acest adevăr . 
+
+Entity ID = E709500258   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = forţă 
+CONTEXT = Acum se întreba în gându -i : " Ce forţă poate fi asemenea acesteia şi cine -o va învinge ? 
+
+Entity ID = E709500259   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = acesteia 
+CONTEXT = Acum se întreba în gându -i : " Ce forţă poate fi asemenea acesteia şi cine -o va învinge ? 
+
+Entity ID = E709500260   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = cine 
+CONTEXT = Acum se întreba în gându -i : " Ce forţă poate fi asemenea acesteia şi cine -o va învinge ? 
+
+Entity ID = E709500261   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = -o 
+CONTEXT = Acum se întreba în gându -i : " Ce forţă poate fi asemenea acesteia şi cine -o va învinge ? 
+
+Entity ID = E709600263   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = o 
+CONTEXT = Cum va reuşi Cezarul s- o înăbuşe , chiar de ar avea şi de două ori atâtea oraşe , şi mări , şi pământun , şi popoare ? 
+
+Entity ID = E709900277   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = vălul Plautillei 
+CONTEXT = Pavel îşi aruncă pe umăr vălul Plautillei , ca să i se lege ochii cu el , ridică pentru ultima oară privirile pline de un calm nespus către lumina veşnică a asfinţitului şi se rugă . 
+
+Entity ID = E709900281   TYPE =            OTHER   FILE = chapter_56_[7034_7102].xml
+ENTITY Text = el 
+CONTEXT = Pavel îşi aruncă pe umăr vălul Plautillei , ca să i se lege ochii cu el , ridică pentru ultima oară privirile pline de un calm nespus către lumina veşnică a asfinţitului şi se rugă . 
+
+Entity ID = E712700030   TYPE =            OTHER   FILE = chapter_58_[7120_7150].xml
+ENTITY Text = trecut 
+CONTEXT = Adesea , când apune soarele sau când luna se oglindeşte în ape , discutăm cu Ligia despre trecut , care acum ne pare un vis . 
+
+Entity ID = E712700031   TYPE =            OTHER   FILE = chapter_58_[7120_7150].xml
+ENTITY Text = care 
+CONTEXT = Adesea , când apune soarele sau când luna se oglindeşte în ape , discutăm cu Ligia despre trecut , care acum ne pare un vis . 
+
+Entity ID = E712700033   TYPE =            OTHER   FILE = chapter_58_[7120_7150].xml
+ENTITY Text = un vis 
+CONTEXT = Adesea , când apune soarele sau când luna se oglindeşte în ape , discutăm cu Ligia despre trecut , care acum ne pare un vis . 
+
+Entity ID = E713600071   TYPE =            OTHER   FILE = chapter_58_[7120_7150].xml
+ENTITY Text = adevărul 
+CONTEXT = Mintea ta ageră va recunoaşte adevărul şi- l va îndrăgi , căci poţi să fii duşmanul lui , cum sunt Cezarul şi Tigellinus , însă indiferent faţă de el nu reuşeşte să rămână nimeni . 
+
+Entity ID = E713600073   TYPE =            OTHER   FILE = chapter_58_[7120_7150].xml
+ENTITY Text = l 
+CONTEXT = Mintea ta ageră va recunoaşte adevărul şi- l va îndrăgi , căci poţi să fii duşmanul lui , cum sunt Cezarul şi Tigellinus , însă indiferent faţă de el nu reuşeşte să rămână nimeni . 
+
+Entity ID = E713600075   TYPE =            OTHER   FILE = chapter_58_[7120_7150].xml
+ENTITY Text = lui 
+CONTEXT = Mintea ta ageră va recunoaşte adevărul şi- l va îndrăgi , căci poţi să fii duşmanul lui , cum sunt Cezarul şi Tigellinus , însă indiferent faţă de el nu reuşeşte să rămână nimeni . 
+
+Entity ID = E713600079   TYPE =            OTHER   FILE = chapter_58_[7120_7150].xml
+ENTITY Text = el 
+CONTEXT = Mintea ta ageră va recunoaşte adevărul şi- l va îndrăgi , căci poţi să fii duşmanul lui , cum sunt Cezarul şi Tigellinus , însă indiferent faţă de el nu reuşeşte să rămână nimeni . 
+
