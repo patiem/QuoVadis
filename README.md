@@ -1,4 +1,4 @@
-# QuoVadis
+## QuoVadis
 ### Entities and Relations annotation effort from 2013-2014 NLP project, first years of my Ph.D. at Faculty of Computer Science Iasi
 
 `QuoVadis.zip` file contains `QuoVadis.xml`, an annotated corpus of the famous novel, in the Romanian language, containing many linguistic annotations added automatically (sentence segmentation, tokenization, part-of-speech tagging, lemmatization, and noun phrase chunking). And most important, manual annotation of:
